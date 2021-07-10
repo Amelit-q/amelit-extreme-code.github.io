@@ -1,2 +1,0 @@
-(this["webpackJsonpmango-ui"]=this["webpackJsonpmango-ui"]||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);var c=e(0),s=e.n(c),i=e(3),o=e.n(i),r=(e(8),e(1));var a=function(){return Object(r.jsx)("div",{className:"App"})};o.a.render(Object(r.jsx)(s.a.StrictMode,{children:Object(r.jsx)(a,{})}),document.getElementById("root"))},8:function(n,t,e){}},[[10,1,2]]]);
-//# sourceMappingURL=main.d318b5a0.chunk.js.map
